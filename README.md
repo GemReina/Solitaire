@@ -1,4 +1,4 @@
-# Solitaire - Solitario
+# Solitaire
 This repository contains the final project for the course Methodology and Technology of Programming II at the University of Girona.
 The project consists of implementing a command-line version of the classic Solitaire card game, following the specifications provided by the professors.
 
