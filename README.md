@@ -33,7 +33,7 @@ g++ -o solitaire main.cpp
 - Tauler.h/cpp: Management of the tableau.
 - Joc.h/cpp: Game logic management.
 
-## Authors
+## Author
 Gemma Reina
 
 ## License
